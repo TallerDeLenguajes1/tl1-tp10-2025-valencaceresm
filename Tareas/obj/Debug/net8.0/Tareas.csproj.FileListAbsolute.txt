@@ -1,0 +1,15 @@
+C:\Users\Val\tl1-tp10-2025-valencaceresm\Tareas\bin\Debug\net8.0\Tareas.exe
+C:\Users\Val\tl1-tp10-2025-valencaceresm\Tareas\bin\Debug\net8.0\Tareas.deps.json
+C:\Users\Val\tl1-tp10-2025-valencaceresm\Tareas\bin\Debug\net8.0\Tareas.runtimeconfig.json
+C:\Users\Val\tl1-tp10-2025-valencaceresm\Tareas\bin\Debug\net8.0\Tareas.dll
+C:\Users\Val\tl1-tp10-2025-valencaceresm\Tareas\bin\Debug\net8.0\Tareas.pdb
+C:\Users\Val\tl1-tp10-2025-valencaceresm\Tareas\obj\Debug\net8.0\Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Val\tl1-tp10-2025-valencaceresm\Tareas\obj\Debug\net8.0\Tareas.AssemblyInfoInputs.cache
+C:\Users\Val\tl1-tp10-2025-valencaceresm\Tareas\obj\Debug\net8.0\Tareas.AssemblyInfo.cs
+C:\Users\Val\tl1-tp10-2025-valencaceresm\Tareas\obj\Debug\net8.0\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\Val\tl1-tp10-2025-valencaceresm\Tareas\obj\Debug\net8.0\Tareas.sourcelink.json
+C:\Users\Val\tl1-tp10-2025-valencaceresm\Tareas\obj\Debug\net8.0\Tareas.dll
+C:\Users\Val\tl1-tp10-2025-valencaceresm\Tareas\obj\Debug\net8.0\refint\Tareas.dll
+C:\Users\Val\tl1-tp10-2025-valencaceresm\Tareas\obj\Debug\net8.0\Tareas.pdb
+C:\Users\Val\tl1-tp10-2025-valencaceresm\Tareas\obj\Debug\net8.0\Tareas.genruntimeconfig.cache
+C:\Users\Val\tl1-tp10-2025-valencaceresm\Tareas\obj\Debug\net8.0\ref\Tareas.dll
