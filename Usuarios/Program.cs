@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
 
-﻿using System.Text.Json;
+using System.Text.Json;
 using Usuarios;
 // See https://aka.ms/new-console-template for more information
 Console.WriteLine("Consumo de API\n");
